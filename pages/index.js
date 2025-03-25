@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>All we need is love! 🌎</h1>;
+  return (
+    <h1>
+      Os lábios da sabedoria estão fechados, exceto aos ouvidos do entendimento.
+      🌎
+    </h1>
+  );
 }
 
 export default Home;
